@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dog Serve Daily</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_daily">Add new daily</string>
+    <string name="startService">Start service</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
